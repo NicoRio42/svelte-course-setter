@@ -1,0 +1,10 @@
+<svg>
+  <circle
+    cx="50"
+    cy="50"
+    r="40"
+    stroke="#bf00ff"
+    stroke-width="2"
+    fill="transparent"
+  />
+</svg>
